@@ -20,7 +20,7 @@ int main(){
 			count ++;
 		}
 		printf("%d", count-2);
-		printf(" card(s)");
+		printf(" card(s)\n");
 		count = 2;
 		sum = 0;
 	}
